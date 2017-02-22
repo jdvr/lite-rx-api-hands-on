@@ -1,5 +1,7 @@
 # Lite Rx API Hands-on
 
+**I have pushed my solution to master.**
+
 This Hands-on is designed to help you to learn easily the lite Rx API provided by [Reactor Core 3.x](https://github.com/reactor/reactor-core/).
 
 You will mostly need these 3 classes Javadoc:
@@ -16,6 +18,6 @@ To do this Hands-on, you just have to:
  - Make sure that the language level is set to Java 8 in your IDE project settings
  - Fix the TODO one by one in Part01 to Part11 test classes to make unit tests green
 
-The solution is available in the `complete` branch to compare, when you have finished, with what you have done.
+~~The solution is available in the `complete` branch to compare, when you have finished, with what you have done.~~
  
 More information available on [Reactor website](http://projectreactor.io).
